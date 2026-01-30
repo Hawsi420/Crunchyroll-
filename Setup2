@@ -1,4 +1,4 @@
-
+{
   "servers": [
     {
       "name": "🌐 Server 1",
@@ -12,12 +12,7 @@
 },
 {
       "name": "🌐 Server 3",
-      "url": "https://github.com/Hawsi420/Crunchyroll-/raw/refs/heads/main/com.crunchyroll.crunchyroid3.zip",
-      "status": "[ Working ✅ ]"
-},
-{
-      "name": "🌐 Server 4",
-      "url": "https://github.com/Hawsi420/Crunchyroll-/raw/refs/heads/main/com.crunchyroll.crunchyroid4.zip",
+      "url": "https://github.com/ITSXLUCKY/Seekj/raw/refs/heads/main/data.zip",
       "status": "[ Working ✅ ]"
 }
   ],
